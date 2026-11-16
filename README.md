@@ -72,9 +72,9 @@ Public-facing roadmaps covering AI adoption considerations for **finance, HR, ma
 
 My professional work includes systems that cannot be published as source code. Selected outcomes from my professional experience:
 
-- **Seismos — AI platforms and engineering enablement:** Built the company's AI, Data, and AI Product Engineering function; led six product/platform teams in a larger cross-functional organization. Delivered a governed customer-facing agentic AI platform serving **100+ tenants** and a private AI-assisted engineering system associated with **60%+ reductions in engineering work time for evaluated activities**.
+- **Seismos — AI platforms and engineering enablement:** Built the company's AI, Data, and AI Product Engineering function; led six product/platform teams in a larger cross-functional organization. Delivered a governed customer-facing agentic AI platform serving various tenants and a private AI-assisted engineering system associated with **60%+ reductions in engineering work time for evaluated activities**.
 - **Chubb — applied insurance AI:** Led globally distributed Applied AI teams developing underwriting classification, quote prioritization, decision systems, and enterprise AI knowledge management, with measured improvements in classification/decision workflows.
-- **Walmart Global Tech — large-scale forecasting:** Led multi-team ML/data engineering work for retail forecasting and optimization, supporting **2M+ actively forecasted products** within a broader product catalog of **50M+**, with production outcomes in forecast accuracy and stockout reduction.
+- **Walmart Global Tech — large-scale forecasting:** Led multi-team ML/data engineering work for retail forecasting and optimization, supporting **2M+ actively forecasted products** within a broader product catalog of **15M+**, with production outcomes in forecast accuracy and stockout reduction.
 
 The examples above are **architecture/outcome summaries only**, not public reproductions of employer code, proprietary data, training material, infrastructure, or customer information.
 
